@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- [View Live In Browser](https://your-live-site-url.com)
+- [View Live In Browser](https://slimbloodworth.github.io/Responsive_HTML_Email_Template_Example/)
 
 ## My process
 
